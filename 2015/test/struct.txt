@@ -1,0 +1,15 @@
+Student #1.
+Name: Ko
+id: 1234
+Phone: 12345
+House: 123
+Student #2.
+Name: Hyduf
+id: 123
+Phone: 12345
+House: 123
+Student #3.
+Name: Ghd
+id: 321
+Phone: 21345
+House: 12
