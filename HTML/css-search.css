@@ -1,0 +1,29 @@
+body
+{
+    text-align: center;
+}
+#top
+{
+
+    font-size: 36px;
+    font-weight: bold;
+}
+#middle
+{
+
+    text-align: center;
+}
+#middle input
+{
+
+    margin: 5px;
+}
+.bottom
+{
+
+    font-size: smaller;
+    font-weight: bold;
+    margin: 20px;
+    text-align: center;
+
+}
