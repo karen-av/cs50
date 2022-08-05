@@ -8,4 +8,6 @@ for (int i = 0; i < 10; i++)
     {
     printf("%i\n", i);
     }
- }
+int c = 4;
+printf("%i\n", c);
+}
